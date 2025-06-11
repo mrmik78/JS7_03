@@ -55,7 +55,7 @@ describe("Books names test suit", () => {
         const input = [
           "Гарри Поттер",
           "Гарри Поттер",
-          "арри Поттер",
+          "Гарри Поттер",
         ];
 
         const expected = [
