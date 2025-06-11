@@ -1,3 +1,4 @@
 ## Покрытие
-![Скриншот 07 06 25_16 02 14](https://github.com/user-attachments/assets/620b48bf-a0d0-4687-baa6-b8b504e8a891)
+
+![Скриншот 11 06 25_21 10 48](https://github.com/user-attachments/assets/cd48849e-cdb5-417c-a398-6e9356a21e74)
 
